@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6739599b58aae97e980753be"
+  },
+  "player": "Novak Djokovic",
+  "points": 2000,
+  "sets_won": 18,
+  "sets_lost": 5
+},
+{
+  "_id": {
+    "$oid": "6739599b58aae97e980753bf"
+  },
+  "player": "Carlos Alcaraz",
+  "points": 1200,
+  "sets_won": 15,
+  "sets_lost": 8
+},
+{
+  "_id": {
+    "$oid": "6739599b58aae97e980753c0"
+  },
+  "player": "Daniil Medvedev",
+  "points": 800,
+  "sets_won": 10,
+  "sets_lost": 12
+}]

@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6739598458aae97e980753b9"
+  },
+  "player1": "Novak Djokovic",
+  "player2": "Carlos Alcaraz",
+  "round": "Final",
+  "result": {
+    "player1_sets": 3,
+    "player2_sets": 2
+  },
+  "date": "2024-11-15",
+  "referee": "Carlos Bernardes"
+},
+{
+  "_id": {
+    "$oid": "6739598458aae97e980753ba"
+  },
+  "player1": "Daniil Medvedev",
+  "player2": "Carlos Alcaraz",
+  "round": "Semifinal",
+  "result": {
+    "player1_sets": 2,
+    "player2_sets": 3
+  },
+  "date": "2024-11-13",
+  "referee": "Mariana Alves"
+}]

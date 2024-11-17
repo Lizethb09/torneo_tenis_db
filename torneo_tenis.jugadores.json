@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "673958b458aae97e980753a6"
+  },
+  "name": "Novak Djokovic",
+  "country": "Serbia",
+  "age": 36,
+  "ranking": 1
+},
+{
+  "_id": {
+    "$oid": "673958c258aae97e980753a8"
+  },
+  "name": "Carlos Alcaraz",
+  "country": "Spain",
+  "age": 20,
+  "ranking": 2
+},
+{
+  "_id": {
+    "$oid": "673958ca58aae97e980753aa"
+  },
+  "name": "Daniil Medvedev",
+  "country": "Russia",
+  "age": 28,
+  "ranking": 3
+}]
